@@ -1,0 +1,6 @@
+{
+  "name": "MerchantMind AI",
+  "description": "Your AI Data Scientist & Autonomous Growth Opportunity Engine for Merchants. Powered by Google Gemini and predictive ML models: churn prediction, K-Means segmentation, time-series forecasting, multi-factor priority scoring, and bounded action proposals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
